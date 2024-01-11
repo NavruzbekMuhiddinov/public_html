@@ -1,0 +1,190 @@
+============[Date]============
+[ 2024-01-08 06:48:31  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971850
+ref.message.message_id= 2363
+ref.message.from.id= 5555337423
+ref.message.from.is_bot= false
+ref.message.from.first_name= NavrUZBEK
+ref.message.from.username= Navruzbek35
+ref.message.from.language_code= ru
+ref.message.chat.id= 5555337423
+ref.message.chat.first_name= NavrUZBEK
+ref.message.chat.username= Navruzbek35
+ref.message.chat.type= private
+ref.message.date= 1704714510
+ref.message.text= 📊 Reyting
+
+
+[ref]
+ref.chat_id= 
+ref.reply_markup= 
+ref.text= yangi buyruq keldi
+bosgan knopkasi:main
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(147): Telegram->sendMessage()
+#4 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(72): showDegree()
+#5 {main}
+
+============[Date]============
+[ 2024-01-08 06:48:53  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971852
+ref.message.message_id= 2368
+ref.message.from.id= 5555337423
+ref.message.from.is_bot= false
+ref.message.from.first_name= NavrUZBEK
+ref.message.from.username= Navruzbek35
+ref.message.from.language_code= ru
+ref.message.chat.id= 5555337423
+ref.message.chat.first_name= NavrUZBEK
+ref.message.chat.username= Navruzbek35
+ref.message.chat.type= private
+ref.message.date= 1704714532
+ref.message.text= 📊 Reyting
+
+
+[ref]
+ref.chat_id= 
+ref.reply_markup= 
+ref.text= yangi buyruq keldi
+bosgan knopkasi:main
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(147): Telegram->sendMessage()
+#4 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(72): showDegree()
+#5 {main}
+
+============[Date]============
+[ 2024-01-08 06:49:30  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971857
+ref.message.message_id= 2379
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov35
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov35
+ref.message.chat.type= private
+ref.message.date= 1704714569
+ref.message.text= 📊 Reyting
+
+
+[ref]
+ref.chat_id= 
+ref.reply_markup= 
+ref.text= yangi buyruq keldi
+bosgan knopkasi:main
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(147): Telegram->sendMessage()
+#4 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(72): showDegree()
+#5 {main}
+
+============[Date]============
+[ 2024-01-08 06:51:18  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971859
+ref.message.message_id= 2384
+ref.message.from.id= 5555337423
+ref.message.from.is_bot= false
+ref.message.from.first_name= NavrUZBEK
+ref.message.from.username= Navruzbek35
+ref.message.from.language_code= ru
+ref.message.chat.id= 5555337423
+ref.message.chat.first_name= NavrUZBEK
+ref.message.chat.username= Navruzbek35
+ref.message.chat.type= private
+ref.message.date= 1704714677
+ref.message.text= 📊 Reyting
+
+
+[ref]
+ref.chat_id= 
+ref.reply_markup= 
+ref.text= yangi buyruq keldi
+bosgan knopkasi:main
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(147): Telegram->sendMessage()
+#4 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(72): showDegree()
+#5 {main}
+
+============[Date]============
+[ 2024-01-08 06:51:27  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971861
+ref.message.message_id= 2389
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov35
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov35
+ref.message.chat.type= private
+ref.message.date= 1704714686
+ref.message.text= 📊 Reyting
+
+
+[ref]
+ref.chat_id= 
+ref.reply_markup= 
+ref.text= yangi buyruq keldi
+bosgan knopkasi:main
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(147): Telegram->sendMessage()
+#4 /home2/interpub/domains/bot.multijournals.org/public_html/mybot.php(72): showDegree()
+#5 {main}
+

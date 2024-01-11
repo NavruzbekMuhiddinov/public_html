@@ -1,0 +1,442 @@
+============[Date]============
+[ 2023-12-04 07:56:47  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971007
+ref.message.message_id= 214
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701694606
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.0= true
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(76): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:25  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971008
+ref.message.message_id= 215
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701694742
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:26  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971011
+ref.message.message_id= 218
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701694850
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:27  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971012
+ref.message.message_id= 219
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701694868
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:29  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971015
+ref.message.message_id= 222
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701694908
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:29  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971016
+ref.message.message_id= 223
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701702543
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:30  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971018
+ref.message.message_id= 225
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701702549
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:31  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971020
+ref.message.message_id= 227
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701702626
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:31  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971021
+ref.message.message_id= 228
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701702704
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:31  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971022
+ref.message.message_id= 229
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701702710
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:33  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971024
+ref.message.message_id= 231
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701702716
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:34  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971026
+ref.message.message_id= 233
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701702902
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-04 10:15:39  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971027
+ref.message.message_id= 250
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701702939
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":false,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(87): Telegram->sendMessage()
+#4 {main}
+

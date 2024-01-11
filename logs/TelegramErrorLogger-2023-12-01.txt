@@ -1,0 +1,90 @@
+============[Date]============
+[ 2023-12-01 06:58:05  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat_id is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.text= Test
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(7): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-01 07:01:47  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578970914
+ref.message.message_id= 6
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701432107
+ref.message.text= /start
+ref.message.entities.0.offset= 0
+ref.message.entities.0.length= 6
+ref.message.entities.0.type= bot_command
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(8): Telegram->sendMessage()
+#4 {main}
+
+============[Date]============
+[ 2023-12-01 07:01:52  America/Toronto ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578970915
+ref.message.message_id= 7
+ref.message.from.id= 979682940
+ref.message.from.is_bot= false
+ref.message.from.first_name= Muhiddinov Navruzbek
+ref.message.from.username= Navruzbekmukhiddinov34
+ref.message.from.language_code= ru
+ref.message.chat.id= 979682940
+ref.message.chat.first_name= Muhiddinov Navruzbek
+ref.message.chat.username= Navruzbekmukhiddinov34
+ref.message.chat.type= private
+ref.message.date= 1701432111
+ref.message.text= salom
+
+
+[ref]
+ref.text= 
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(8): Telegram->sendMessage()
+#4 {main}
+

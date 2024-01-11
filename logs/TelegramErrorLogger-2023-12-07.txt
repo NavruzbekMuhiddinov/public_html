@@ -1,0 +1,36 @@
+============[Date]============
+[ 2023-12-07 07:51:19  America/Toronto ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		28
+curl_error:		Failed to connect to api.telegram.org port 443 after 128558 ms: Connection timed out
+=========[Sent Data]==========
+[ref]
+ref.update_id= 578971213
+ref.message.message_id= 695
+ref.message.from.id= 5555337423
+ref.message.from.is_bot= false
+ref.message.from.first_name= NavrUZBEK
+ref.message.from.username= Navruzbek35
+ref.message.from.language_code= ru
+ref.message.chat.id= 5555337423
+ref.message.chat.first_name= NavrUZBEK
+ref.message.chat.username= Navruzbek35
+ref.message.chat.type= private
+ref.message.date= 1701953350
+ref.message.text= 👨‍ Admin bilan bog’lanish
+
+
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"raqamni yuborish","request_contact":true,"request_location":false}]],"one_time_keyboard":true,"resize_keyboard":true,"selective":true}
+ref.text= siz bilan bog'lanishimiz uchun telefon raqamingizni yuboring!
+
+
+============[Trace]===========
+#0 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(1862): TelegramErrorLogger::log()
+#1 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(124): Telegram->sendAPIRequest()
+#2 /home2/interpub/domains/bot.multijournals.org/public_html/Telegram.php(182): Telegram->endpoint()
+#3 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(128): Telegram->sendMessage()
+#4 /home2/interpub/domains/bot.multijournals.org/public_html/index.php(70): showAdmin()
+#5 {main}
+
