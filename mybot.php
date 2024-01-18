@@ -19,7 +19,7 @@ $ADMIN_CHAT_ID = "5555337423";
 // ]);
 
 
- if($text=="/start")  {
+ if($text=="/start")  {//if starting programm
 showMain();
 // joinchat();
    
@@ -180,7 +180,7 @@ function showContact(){
  //$content = array('chat_id' => $chat_id, 'text' => $telcontact);
 
 }
-function joinchat(){
+function joinchat($chat_id){
     
     $result = bot('getChatMember',[
     'chat_id'=>"-1001671977181",
